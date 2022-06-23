@@ -1,4 +1,4 @@
-# Equipe de Eficiência Energética da UFSC :racing_car:
+<img align="center" src="https://uploaddeimagens.com.br/images/003/913/576/original/logo.png?1655999906" width="200px" />
 
 ### QUEM É A E3 UFSC?
 A E3 UFSC é uma equipe de competição criada em 2009 e formada por estudantes de diversos cursos da Universidade Federal de Santa Catarina, na qual projeta, constrói e valida protótipos veiculares ultraeficientes nas categorias gasolina e elétrico, na competição Shell Eco-Marathon, colaborando para a construção de um mundo mais eficiente e sustentável.
@@ -8,7 +8,7 @@ A E3 UFSC é uma equipe de competição criada em 2009 e formada por estudantes 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gladistory&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e3ufsc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=e3ufsc&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e3ufsc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -22,6 +22,5 @@ A E3 UFSC é uma equipe de competição criada em 2009 e formada por estudantes 
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-    <img align="center" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-    
+    <img align="center" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>   
 </div><br/>
