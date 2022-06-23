@@ -12,7 +12,7 @@ A E3 UFSC é uma equipe de competição criada em 2009 e formada por estudantes 
 
 
 
-## Tecnologias que eu uso no meu dia-dia
+## Tecnologias que usamos em nosso dia-dia
 
 
 <div style="display: inline_block"><br/>
