@@ -1,4 +1,4 @@
-# Equipe de eficiência energética da UFSC :racing_car:
+# Equipe de Eficiência Energética da UFSC :racing_car:
 
 ### QUEM É A E3 UFSC?
 A E3 UFSC é uma equipe de competição criada em 2009 e formada por estudantes de diversos cursos da Universidade Federal de Santa Catarina, na qual projeta, constrói e valida protótipos veiculares ultraeficientes nas categorias gasolina e elétrico, na competição Shell Eco-Marathon, colaborando para a construção de um mundo mais eficiente e sustentável.
